@@ -1,2 +1,3 @@
-XThis is a new file.
+This is a new file.
 Now it is revised 
+CP 
